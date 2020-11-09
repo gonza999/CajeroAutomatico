@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CajeroAutomatico.Consola.Cuenta" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAEAAAYEAAACAAAAAAAAAAQAAIAQAQAAEAA=</HashCode>
+      <FileName>Cuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.BaseDatosBanco" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAEAABAQAgAAAAAAAAAAAQAAEAA=</HashCode>
+      <FileName>BaseDatosBanco.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Cuenta" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.Pantalla" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACABAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pantalla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.RanuraDeposito" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RanuraDeposito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.Teclado" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teclado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.CAJERO" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CAJERO.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DispensadorEfectivo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.DispensadorEfectivo" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DispensadorEfectivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.Transaccion" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transaccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.Deposito" Collapsed="true">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deposito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.SolicitudSaldo" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SolicitudSaldo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CajeroAutomatico.Consola.Retiro" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Retiro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
