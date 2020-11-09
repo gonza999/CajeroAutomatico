@@ -56,14 +56,14 @@
   <Class Name="CajeroAutomatico.Consola.DispensadorEfectivo" Collapsed="true">
     <Position X="5" Y="0.5" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAA=</HashCode>
       <FileName>DispensadorEfectivo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CajeroAutomatico.Consola.Transaccion" Collapsed="true">
-    <Position X="6.5" Y="2.75" Width="1.5" />
+    <Position X="6.25" Y="3" Width="2.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAACAAAAEgAAABAAAAAAAAAAAAAAgAAAAIA=</HashCode>
       <FileName>Transaccion.cs</FileName>
     </TypeIdentifier>
   </Class>

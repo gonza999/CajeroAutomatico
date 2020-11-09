@@ -7,5 +7,9 @@ namespace CajeroAutomatico.Consola
 {
     public class SolicitudSaldo : Transaccion
     {
+        public override bool VerificarCuenta(int numeroCuenta)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
